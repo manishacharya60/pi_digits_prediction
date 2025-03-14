@@ -67,4 +67,4 @@ AI is powerful—but only when a pattern exists!
 
 This experiment highlights the limits of AI—it can’t predict what isn’t predictable.  
 
-For a deeper dive into this project, check out the **[blog post (link coming soon!)]()**.  
+For a deeper dive into this project, check out the **[blog post](https://acharyamanish.net/blog/2025/pi-digits-prediction/)**.  
